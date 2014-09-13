@@ -1,0 +1,7 @@
+D:\personal\Cursos\2013\Maestria Ing Software\11 Implementacion de componentes\MyApiMovie\MyApiMovie\MyApiMovie.UnitTest\obj\Debug\MyApiMovie.UnitTest.csprojResolveAssemblyReference.cache
+D:\personal\Cursos\2013\Maestria Ing Software\11 Implementacion de componentes\MyApiMovie\MyApiMovie\MyApiMovie.UnitTest\bin\Debug\MyApiMovie.UnitTest.dll
+D:\personal\Cursos\2013\Maestria Ing Software\11 Implementacion de componentes\MyApiMovie\MyApiMovie\MyApiMovie.UnitTest\bin\Debug\MyApiMovie.UnitTest.pdb
+D:\personal\Cursos\2013\Maestria Ing Software\11 Implementacion de componentes\MyApiMovie\MyApiMovie\MyApiMovie.UnitTest\bin\Debug\MyApiMovie.Translator.dll
+D:\personal\Cursos\2013\Maestria Ing Software\11 Implementacion de componentes\MyApiMovie\MyApiMovie\MyApiMovie.UnitTest\bin\Debug\MyApiMovie.Translator.pdb
+D:\personal\Cursos\2013\Maestria Ing Software\11 Implementacion de componentes\MyApiMovie\MyApiMovie\MyApiMovie.UnitTest\obj\Debug\MyApiMovie.UnitTest.dll
+D:\personal\Cursos\2013\Maestria Ing Software\11 Implementacion de componentes\MyApiMovie\MyApiMovie\MyApiMovie.UnitTest\obj\Debug\MyApiMovie.UnitTest.pdb

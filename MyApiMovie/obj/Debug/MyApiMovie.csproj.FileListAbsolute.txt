@@ -1,0 +1,5 @@
+D:\personal\Cursos\2013\Maestria Ing Software\11 Implementacion de componentes\MyApiMovie\MyApiMovie\MyApiMovie\bin\Debug\MyApiMovie.dll
+D:\personal\Cursos\2013\Maestria Ing Software\11 Implementacion de componentes\MyApiMovie\MyApiMovie\MyApiMovie\bin\Debug\MyApiMovie.pdb
+D:\personal\Cursos\2013\Maestria Ing Software\11 Implementacion de componentes\MyApiMovie\MyApiMovie\MyApiMovie\obj\Debug\MyApiMovie.dll
+D:\personal\Cursos\2013\Maestria Ing Software\11 Implementacion de componentes\MyApiMovie\MyApiMovie\MyApiMovie\obj\Debug\MyApiMovie.pdb
+D:\personal\Cursos\2013\Maestria Ing Software\11 Implementacion de componentes\MyApiMovie\MyApiMovie\MyApiMovie\obj\Debug\MyApiMovie.csprojResolveAssemblyReference.cache

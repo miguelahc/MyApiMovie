@@ -1,0 +1,8 @@
+D:\personal\Cursos\2013\Maestria Ing Software\11 Implementacion de componentes\MyApiMovie\MyApiMovie\MyApiMovie.Translator\obj\Debug\MyApiMovie.Translator.Configuration.resources
+D:\personal\Cursos\2013\Maestria Ing Software\11 Implementacion de componentes\MyApiMovie\MyApiMovie\MyApiMovie.Translator\obj\Debug\MyApiMovie.Translator.csproj.GenerateResource.Cache
+D:\personal\Cursos\2013\Maestria Ing Software\11 Implementacion de componentes\MyApiMovie\MyApiMovie\MyApiMovie.Translator\bin\Debug\MyApiMovie.Translator.dll.config
+D:\personal\Cursos\2013\Maestria Ing Software\11 Implementacion de componentes\MyApiMovie\MyApiMovie\MyApiMovie.Translator\bin\Debug\MyApiMovie.Translator.dll
+D:\personal\Cursos\2013\Maestria Ing Software\11 Implementacion de componentes\MyApiMovie\MyApiMovie\MyApiMovie.Translator\bin\Debug\MyApiMovie.Translator.pdb
+D:\personal\Cursos\2013\Maestria Ing Software\11 Implementacion de componentes\MyApiMovie\MyApiMovie\MyApiMovie.Translator\obj\Debug\MyApiMovie.Translator.dll
+D:\personal\Cursos\2013\Maestria Ing Software\11 Implementacion de componentes\MyApiMovie\MyApiMovie\MyApiMovie.Translator\obj\Debug\MyApiMovie.Translator.pdb
+D:\personal\Cursos\2013\Maestria Ing Software\11 Implementacion de componentes\MyApiMovie\MyApiMovie\MyApiMovie.Translator\obj\Debug\MyApiMovie.Translator.csprojResolveAssemblyReference.cache
