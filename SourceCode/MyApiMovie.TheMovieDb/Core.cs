@@ -60,7 +60,7 @@ namespace MyApiMovie.TheMovieDb
                 dynamic objectDynamicResult = JObject.Parse(webclient.DownloadString(searchMovieUri));
                 foreach (var item in objectDynamicResult.results)
                 {
-                    if (item.media_type = "movie")
+                    if (item.media_type == "movie")
                     {
                         Movie movie = new Movie();
                         movie.Adult = item.adult;
@@ -113,34 +113,22 @@ namespace MyApiMovie.TheMovieDb
                 
                 foreach (var item in objectDynamicMovie.genres)
                 {
-                    Genre genre = new Genre();
-                    genre.GenreId = item.id;
-                    genre.Name = item.name;
-                    movie.Genres.Add(genre);
+                    movie.Genres.Add(new Genre(item.id,item.name));
                 }
 
                 foreach (var item in objectDynamicMovie.production_companies)
                 {
-                    Company company = new Company();
-                    company.CompanyId = item.id;
-                    company.Name = item.name;
-                    movie.Companies.Add(company);
+                    movie.Companies.Add(new Company(item.id,item.name));
                 }
 
                 foreach (var item in objectDynamicMovie.production_countries)
                 {
-                    Country country = new Country();
-                    country.CountryId = item.id;
-                    country.Name = item.name;
-                    movie.Countries.Add(country);
+                    movie.Companies.Add(new Company(item.id, item.name));
                 }
 
                 foreach (var item in objectDynamicMovie.spoken_languages)
                 {
-                    Language language = new Language();
-                    language.LanguageId = item.id;
-                    language.Name = item.name;
-                    movie.Languages.Add(language);
+                    movie.Languages.Add(new Language(item.iso_3166_1,item.name));
                 }
             }
             catch (Exception ex)
