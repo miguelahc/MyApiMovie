@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MyApiMovie.TheMovieDb.DO.Company" Collapsed="true">
+    <Position X="7.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DO\Company.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyApiMovie.TheMovieDb.DO.Country" Collapsed="true">
+    <Position X="8" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DO\Country.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyApiMovie.TheMovieDb.DO.Director" Collapsed="true">
+    <Position X="7.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>DO\Director.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyApiMovie.TheMovieDb.DO.Genre">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DO\Genre.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyApiMovie.TheMovieDb.DO.Language" Collapsed="true">
+    <Position X="7" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DO\Language.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyApiMovie.TheMovieDb.DO.Movie" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACQAAAAECIAIAEAAAAIAAQgAAQAgAAAAAAICAAAAAEA=</HashCode>
+      <FileName>DO\Movie.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyApiMovie.TheMovieDb.Core">
+    <Position X="4.25" Y="3.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAAAAAAAABAAAAAAAAACAA=</HashCode>
+      <FileName>Core.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

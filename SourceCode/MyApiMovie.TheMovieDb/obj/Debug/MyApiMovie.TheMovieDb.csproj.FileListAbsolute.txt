@@ -1,0 +1,29 @@
+D:\personal\Cursos\2013\Maestria Ing Software\11 Implementacion de componentes\MyApiMovie\MyApiMovie\MyApiMovie.ApiFilms\bin\Debug\MyApiMovie.ApiFilms.dll
+D:\personal\Cursos\2013\Maestria Ing Software\11 Implementacion de componentes\MyApiMovie\MyApiMovie\MyApiMovie.ApiFilms\bin\Debug\MyApiMovie.ApiFilms.pdb
+D:\personal\Cursos\2013\Maestria Ing Software\11 Implementacion de componentes\MyApiMovie\MyApiMovie\MyApiMovie.ApiFilms\bin\Debug\Newtonsoft.Json.dll
+D:\personal\Cursos\2013\Maestria Ing Software\11 Implementacion de componentes\MyApiMovie\MyApiMovie\MyApiMovie.ApiFilms\bin\Debug\Newtonsoft.Json.xml
+D:\personal\Cursos\2013\Maestria Ing Software\11 Implementacion de componentes\MyApiMovie\MyApiMovie\MyApiMovie.ApiFilms\obj\Debug\MyApiMovie.ApiFilms.TheMovieDb.TheMovieDbConfig.resources
+D:\personal\Cursos\2013\Maestria Ing Software\11 Implementacion de componentes\MyApiMovie\MyApiMovie\MyApiMovie.ApiFilms\obj\Debug\MyApiMovie.ApiFilms.TheMovieDb.TheMovieDbImage.resources
+D:\personal\Cursos\2013\Maestria Ing Software\11 Implementacion de componentes\MyApiMovie\MyApiMovie\MyApiMovie.ApiFilms\obj\Debug\MyApiMovie.TheMovieDb.csproj.GenerateResource.Cache
+D:\personal\Cursos\2013\Maestria Ing Software\11 Implementacion de componentes\MyApiMovie\MyApiMovie\MyApiMovie.ApiFilms\obj\Debug\MyApiMovie.ApiFilms.dll
+D:\personal\Cursos\2013\Maestria Ing Software\11 Implementacion de componentes\MyApiMovie\MyApiMovie\MyApiMovie.ApiFilms\obj\Debug\MyApiMovie.ApiFilms.pdb
+D:\personal\Cursos\2013\Maestria Ing Software\11 Implementacion de componentes\MyApiMovie\MyApiMovie\MyApiMovie.TheMovieDb\bin\Debug\Newtonsoft.Json.dll
+D:\personal\Cursos\2013\Maestria Ing Software\11 Implementacion de componentes\MyApiMovie\MyApiMovie\MyApiMovie.TheMovieDb\bin\Debug\Newtonsoft.Json.xml
+D:\personal\Cursos\2013\Maestria Ing Software\11 Implementacion de componentes\MyApiMovie\MyApiMovie\MyApiMovie.TheMovieDb\obj\Debug\MyApiMovie.TheMovieDb.csproj.GenerateResource.Cache
+D:\personal\Cursos\2013\Maestria Ing Software\11 Implementacion de componentes\MyApiMovie\MyApiMovie\MyApiMovie.TheMovieDb\bin\Debug\MyApiMovie.TheMovieDb.dll
+D:\personal\Cursos\2013\Maestria Ing Software\11 Implementacion de componentes\MyApiMovie\MyApiMovie\MyApiMovie.TheMovieDb\bin\Debug\MyApiMovie.TheMovieDb.pdb
+D:\personal\Cursos\2013\Maestria Ing Software\11 Implementacion de componentes\MyApiMovie\MyApiMovie\MyApiMovie.TheMovieDb\obj\Debug\MyApiMovie.TheMovieDb.TheMovieDb.TheMovieDbConfig.resources
+D:\personal\Cursos\2013\Maestria Ing Software\11 Implementacion de componentes\MyApiMovie\MyApiMovie\MyApiMovie.TheMovieDb\obj\Debug\MyApiMovie.TheMovieDb.TheMovieDb.TheMovieDbImage.resources
+D:\personal\Cursos\2013\Maestria Ing Software\11 Implementacion de componentes\MyApiMovie\MyApiMovie\MyApiMovie.TheMovieDb\obj\Debug\MyApiMovie.TheMovieDb.dll
+D:\personal\Cursos\2013\Maestria Ing Software\11 Implementacion de componentes\MyApiMovie\MyApiMovie\MyApiMovie.TheMovieDb\obj\Debug\MyApiMovie.TheMovieDb.pdb
+D:\personal\Cursos\2013\Maestria Ing Software\11 Implementacion de componentes\MyApiMovie\MyApiMovie\MyApiMovie.TheMovieDb\obj\Debug\MyApiMovie.TheMovieDb.csprojResolveAssemblyReference.cache
+F:\cursos\2013\Maestria Ing Software\11 Implementación de componentes de Software\PROYECTO\MyApiMovie\SourceCode\MyApiMovie.TheMovieDb\bin\Debug\MyApiMovie.TheMovieDb.dll
+F:\cursos\2013\Maestria Ing Software\11 Implementación de componentes de Software\PROYECTO\MyApiMovie\SourceCode\MyApiMovie.TheMovieDb\bin\Debug\MyApiMovie.TheMovieDb.pdb
+F:\cursos\2013\Maestria Ing Software\11 Implementación de componentes de Software\PROYECTO\MyApiMovie\SourceCode\MyApiMovie.TheMovieDb\bin\Debug\Newtonsoft.Json.dll
+F:\cursos\2013\Maestria Ing Software\11 Implementación de componentes de Software\PROYECTO\MyApiMovie\SourceCode\MyApiMovie.TheMovieDb\bin\Debug\Newtonsoft.Json.xml
+F:\cursos\2013\Maestria Ing Software\11 Implementación de componentes de Software\PROYECTO\MyApiMovie\SourceCode\MyApiMovie.TheMovieDb\obj\Debug\MyApiMovie.TheMovieDb.csprojResolveAssemblyReference.cache
+F:\cursos\2013\Maestria Ing Software\11 Implementación de componentes de Software\PROYECTO\MyApiMovie\SourceCode\MyApiMovie.TheMovieDb\obj\Debug\MyApiMovie.TheMovieDb.TheMovieDb.TheMovieDbConfig.resources
+F:\cursos\2013\Maestria Ing Software\11 Implementación de componentes de Software\PROYECTO\MyApiMovie\SourceCode\MyApiMovie.TheMovieDb\obj\Debug\MyApiMovie.TheMovieDb.TheMovieDb.TheMovieDbImage.resources
+F:\cursos\2013\Maestria Ing Software\11 Implementación de componentes de Software\PROYECTO\MyApiMovie\SourceCode\MyApiMovie.TheMovieDb\obj\Debug\MyApiMovie.TheMovieDb.csproj.GenerateResource.Cache
+F:\cursos\2013\Maestria Ing Software\11 Implementación de componentes de Software\PROYECTO\MyApiMovie\SourceCode\MyApiMovie.TheMovieDb\obj\Debug\MyApiMovie.TheMovieDb.dll
+F:\cursos\2013\Maestria Ing Software\11 Implementación de componentes de Software\PROYECTO\MyApiMovie\SourceCode\MyApiMovie.TheMovieDb\obj\Debug\MyApiMovie.TheMovieDb.pdb

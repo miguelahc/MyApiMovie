@@ -1,0 +1,8 @@
+D:\personal\Cursos\2013\Maestria Ing Software\11 Implementacion de componentes\MyApiMovie\MyApiMovie\MyApiMovie.DataAccess\bin\Debug\MyApiMovie.DataAccess.dll
+D:\personal\Cursos\2013\Maestria Ing Software\11 Implementacion de componentes\MyApiMovie\MyApiMovie\MyApiMovie.DataAccess\bin\Debug\MyApiMovie.DataAccess.pdb
+D:\personal\Cursos\2013\Maestria Ing Software\11 Implementacion de componentes\MyApiMovie\MyApiMovie\MyApiMovie.DataAccess\obj\Debug\MyApiMovie.DataAccess.dll
+D:\personal\Cursos\2013\Maestria Ing Software\11 Implementacion de componentes\MyApiMovie\MyApiMovie\MyApiMovie.DataAccess\obj\Debug\MyApiMovie.DataAccess.pdb
+F:\cursos\2013\Maestria Ing Software\11 Implementación de componentes de Software\PROYECTO\MyApiMovie\SourceCode\MyApiMovie.DataAccess\bin\Debug\MyApiMovie.DataAccess.dll
+F:\cursos\2013\Maestria Ing Software\11 Implementación de componentes de Software\PROYECTO\MyApiMovie\SourceCode\MyApiMovie.DataAccess\bin\Debug\MyApiMovie.DataAccess.pdb
+F:\cursos\2013\Maestria Ing Software\11 Implementación de componentes de Software\PROYECTO\MyApiMovie\SourceCode\MyApiMovie.DataAccess\obj\Debug\MyApiMovie.DataAccess.dll
+F:\cursos\2013\Maestria Ing Software\11 Implementación de componentes de Software\PROYECTO\MyApiMovie\SourceCode\MyApiMovie.DataAccess\obj\Debug\MyApiMovie.DataAccess.pdb

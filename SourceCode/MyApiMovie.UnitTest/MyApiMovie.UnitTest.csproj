@@ -50,16 +50,21 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
-    <Compile Include="TranslatorTest.cs" />
-    <Compile Include="UnitTest1.cs" />
+    <Compile Include="TheMovieDb\TheMovieDbTest.cs" />
+    <Compile Include="Translator\TranslatorTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\MyApiMovie.TheMovieDb\MyApiMovie.TheMovieDb.csproj">
+      <Project>{f6f3b066-5afd-4676-9185-46c3ad679d7b}</Project>
+      <Name>MyApiMovie.TheMovieDb</Name>
+    </ProjectReference>
     <ProjectReference Include="..\MyApiMovie.Translator\MyApiMovie.Translator.csproj">
       <Project>{c8d1c194-f57f-4517-82d3-d0f56f361f36}</Project>
       <Name>MyApiMovie.Translator</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup />
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">
       <ItemGroup>
