@@ -26,3 +26,4 @@ F:\cursos\2013\Maestria Ing Software\11 Implementación de componentes de Softwa
 F:\cursos\2013\Maestria Ing Software\11 Implementación de componentes de Software\PROYECTO\MyApiMovie\SourceCode\MyApiMovie.TheMovieDb\obj\Debug\MyApiMovie.TheMovieDb.csproj.GenerateResource.Cache
 F:\cursos\2013\Maestria Ing Software\11 Implementación de componentes de Software\PROYECTO\MyApiMovie\SourceCode\MyApiMovie.TheMovieDb\obj\Debug\MyApiMovie.TheMovieDb.dll
 F:\cursos\2013\Maestria Ing Software\11 Implementación de componentes de Software\PROYECTO\MyApiMovie\SourceCode\MyApiMovie.TheMovieDb\obj\Debug\MyApiMovie.TheMovieDb.pdb
+F:\cursos\2013\Maestria Ing Software\11 Implementación de componentes de Software\PROYECTO\MyApiMovie\SourceCode\MyApiMovie.TheMovieDb\obj\Debug\MyApiMovie.TheMovieDb.csprojResolveAssemblyReference.cache

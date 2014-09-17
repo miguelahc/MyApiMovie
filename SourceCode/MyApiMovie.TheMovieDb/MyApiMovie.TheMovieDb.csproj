@@ -42,18 +42,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DO\Company.cs" />
+    <Compile Include="TheMovieDb\DO\Company.cs" />
     <Compile Include="TheMovieDb\TheMovieDbConfig.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>TheMovieDbConfig.resx</DependentUpon>
     </Compile>
     <Compile Include="Core.cs" />
-    <Compile Include="DO\Country.cs" />
-    <Compile Include="DO\Director.cs" />
-    <Compile Include="DO\Genre.cs" />
-    <Compile Include="DO\Language.cs" />
-    <Compile Include="DO\Movie.cs" />
+    <Compile Include="TheMovieDb\DO\Country.cs" />
+    <Compile Include="TheMovieDb\DO\Director.cs" />
+    <Compile Include="TheMovieDb\DO\Genre.cs" />
+    <Compile Include="TheMovieDb\DO\Language.cs" />
+    <Compile Include="TheMovieDb\DO\Movie.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TheMovieDb\TheMovieDbImage.Designer.cs">
       <AutoGen>True</AutoGen>
@@ -73,7 +73,7 @@
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
-    <None Include="DO\TheMovieDb.cd" />
+    <None Include="TheMovieDb\DO\TheMovieDb.cd" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

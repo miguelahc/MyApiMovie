@@ -1,13 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyApiMovie.Translator", "MyApiMovie.Translator\MyApiMovie.Translator.csproj", "{C8D1C194-F57F-4517-82D3-D0F56F361F36}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyApiMovie.UnitTest", "MyApiMovie.UnitTest\MyApiMovie.UnitTest.csproj", "{4CB6CEF9-1CB2-4FCB-A0E8-98018BFF3A2F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyApiMovie.DataAccess", "MyApiMovie.DataAccess\MyApiMovie.DataAccess.csproj", "{40004DED-FF68-452D-A510-26760731A3B5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyApiMovie.TheMovieDb", "MyApiMovie.TheMovieDb\MyApiMovie.TheMovieDb.csproj", "{F6F3B066-5AFD-4676-9185-46C3AD679D7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyApiMovie.Web", "MyApiMovie.Web\MyApiMovie.Web.csproj", "{0846ED1A-8792-49C2-8309-35C630B08748}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,10 +15,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C8D1C194-F57F-4517-82D3-D0F56F361F36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C8D1C194-F57F-4517-82D3-D0F56F361F36}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C8D1C194-F57F-4517-82D3-D0F56F361F36}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C8D1C194-F57F-4517-82D3-D0F56F361F36}.Release|Any CPU.Build.0 = Release|Any CPU
 		{4CB6CEF9-1CB2-4FCB-A0E8-98018BFF3A2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{4CB6CEF9-1CB2-4FCB-A0E8-98018BFF3A2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4CB6CEF9-1CB2-4FCB-A0E8-98018BFF3A2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -31,6 +27,10 @@ Global
 		{F6F3B066-5AFD-4676-9185-46C3AD679D7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F6F3B066-5AFD-4676-9185-46C3AD679D7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F6F3B066-5AFD-4676-9185-46C3AD679D7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0846ED1A-8792-49C2-8309-35C630B08748}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0846ED1A-8792-49C2-8309-35C630B08748}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0846ED1A-8792-49C2-8309-35C630B08748}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0846ED1A-8792-49C2-8309-35C630B08748}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

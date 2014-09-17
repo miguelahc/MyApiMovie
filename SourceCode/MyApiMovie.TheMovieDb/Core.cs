@@ -65,13 +65,13 @@ namespace MyApiMovie.TheMovieDb
                         Movie movie = new Movie();
                         movie.Adult = item.adult;
                         string backdropPath=item.backdrop_path;
-                        movie.BackdropPath = TheMovieDb.ImageTool.GetFullPath(backdropPath , ImageTool.TypeImage.backdrop, ImageTool.SizeImage.original);
+                        movie.BackdropPath = TheMovieDb.ImageTool.GetFullPath(backdropPath , ImageTool.TypeImage.backdrop, ImageTool.SizeImage.w500);
                         movie.MovieId = item.id;
                         movie.OriginalTitle = item.original_title;
                         string releaseDate = item.release_date;
                         movie.ReleaseDate=DateTime.Parse(releaseDate);
                         string posterPath=item.poster_path;
-                        movie.PosterPath= TheMovieDb.ImageTool.GetFullPath(posterPath, ImageTool.TypeImage.poster, ImageTool.SizeImage.original);
+                        movie.PosterPath= TheMovieDb.ImageTool.GetFullPath(posterPath, ImageTool.TypeImage.poster, ImageTool.SizeImage.w154);
                         movie.Popularity = item.popularity;
                         movie.Title = item.title;
                         listMovie.Add(movie);
