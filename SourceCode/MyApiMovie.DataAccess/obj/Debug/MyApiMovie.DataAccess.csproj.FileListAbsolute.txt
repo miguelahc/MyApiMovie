@@ -6,3 +6,8 @@ F:\cursos\2013\Maestria Ing Software\11 Implementación de componentes de Softwa
 F:\cursos\2013\Maestria Ing Software\11 Implementación de componentes de Software\PROYECTO\MyApiMovie\SourceCode\MyApiMovie.DataAccess\bin\Debug\MyApiMovie.DataAccess.pdb
 F:\cursos\2013\Maestria Ing Software\11 Implementación de componentes de Software\PROYECTO\MyApiMovie\SourceCode\MyApiMovie.DataAccess\obj\Debug\MyApiMovie.DataAccess.dll
 F:\cursos\2013\Maestria Ing Software\11 Implementación de componentes de Software\PROYECTO\MyApiMovie\SourceCode\MyApiMovie.DataAccess\obj\Debug\MyApiMovie.DataAccess.pdb
+F:\cursos\2013\Maestria Ing Software\11 Implementación de componentes de Software\PROYECTO\MyApiMovie\SourceCode\MyApiMovie.DataAccess\bin\Debug\MyApiMovie.DataAccess.dll.config
+F:\cursos\2013\Maestria Ing Software\11 Implementación de componentes de Software\PROYECTO\MyApiMovie\SourceCode\MyApiMovie.DataAccess\bin\Debug\EntityFramework.dll
+F:\cursos\2013\Maestria Ing Software\11 Implementación de componentes de Software\PROYECTO\MyApiMovie\SourceCode\MyApiMovie.DataAccess\bin\Debug\EntityFramework.xml
+F:\cursos\2013\Maestria Ing Software\11 Implementación de componentes de Software\PROYECTO\MyApiMovie\SourceCode\MyApiMovie.DataAccess\bin\Debug\es\EntityFramework.resources.dll
+F:\cursos\2013\Maestria Ing Software\11 Implementación de componentes de Software\PROYECTO\MyApiMovie\SourceCode\MyApiMovie.DataAccess\obj\Debug\MyApiMovie.DataAccess.csprojResolveAssemblyReference.cache

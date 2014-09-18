@@ -233,6 +233,10 @@
     <Content Include="Html\js\skel.min.js" />
     <Content Include="Html\LICENSE.txt" />
     <Content Include="Html\README.txt" />
+    <Content Include="Html\ResultMovies.html" />
+    <Content Include="Html\SearchMovieByCompany.html" />
+    <Content Include="Html\Movie.html" />
+    <Content Include="Html\SearchMovieByTitle.html" />
     <Content Include="Images\accent.png" />
     <Content Include="Images\avatar.jpg" />
     <Content Include="Images\banner.jpg" />

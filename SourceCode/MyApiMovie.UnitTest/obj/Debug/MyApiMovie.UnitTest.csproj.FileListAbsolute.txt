@@ -12,10 +12,8 @@ D:\personal\Cursos\2013\Maestria Ing Software\11 Implementacion de componentes\M
 F:\cursos\2013\Maestria Ing Software\11 Implementación de componentes de Software\PROYECTO\MyApiMovie\SourceCode\MyApiMovie.UnitTest\bin\Debug\MyApiMovie.UnitTest.dll
 F:\cursos\2013\Maestria Ing Software\11 Implementación de componentes de Software\PROYECTO\MyApiMovie\SourceCode\MyApiMovie.UnitTest\bin\Debug\MyApiMovie.UnitTest.pdb
 F:\cursos\2013\Maestria Ing Software\11 Implementación de componentes de Software\PROYECTO\MyApiMovie\SourceCode\MyApiMovie.UnitTest\bin\Debug\MyApiMovie.TheMovieDb.dll
-F:\cursos\2013\Maestria Ing Software\11 Implementación de componentes de Software\PROYECTO\MyApiMovie\SourceCode\MyApiMovie.UnitTest\bin\Debug\MyApiMovie.Translator.dll
 F:\cursos\2013\Maestria Ing Software\11 Implementación de componentes de Software\PROYECTO\MyApiMovie\SourceCode\MyApiMovie.UnitTest\bin\Debug\Newtonsoft.Json.dll
 F:\cursos\2013\Maestria Ing Software\11 Implementación de componentes de Software\PROYECTO\MyApiMovie\SourceCode\MyApiMovie.UnitTest\bin\Debug\MyApiMovie.TheMovieDb.pdb
-F:\cursos\2013\Maestria Ing Software\11 Implementación de componentes de Software\PROYECTO\MyApiMovie\SourceCode\MyApiMovie.UnitTest\bin\Debug\MyApiMovie.Translator.pdb
 F:\cursos\2013\Maestria Ing Software\11 Implementación de componentes de Software\PROYECTO\MyApiMovie\SourceCode\MyApiMovie.UnitTest\bin\Debug\Newtonsoft.Json.xml
 F:\cursos\2013\Maestria Ing Software\11 Implementación de componentes de Software\PROYECTO\MyApiMovie\SourceCode\MyApiMovie.UnitTest\obj\Debug\MyApiMovie.UnitTest.csprojResolveAssemblyReference.cache
 F:\cursos\2013\Maestria Ing Software\11 Implementación de componentes de Software\PROYECTO\MyApiMovie\SourceCode\MyApiMovie.UnitTest\obj\Debug\MyApiMovie.UnitTest.dll

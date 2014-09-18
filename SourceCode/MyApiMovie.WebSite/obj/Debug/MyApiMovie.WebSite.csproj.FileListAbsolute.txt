@@ -1,0 +1,4 @@
+F:\cursos\2013\Maestria Ing Software\11 Implementación de componentes de Software\PROYECTO\MyApiMovie\SourceCode\MyApiMovie.WebSite\bin\MyApiMovie.WebSite.dll
+F:\cursos\2013\Maestria Ing Software\11 Implementación de componentes de Software\PROYECTO\MyApiMovie\SourceCode\MyApiMovie.WebSite\bin\MyApiMovie.WebSite.pdb
+F:\cursos\2013\Maestria Ing Software\11 Implementación de componentes de Software\PROYECTO\MyApiMovie\SourceCode\MyApiMovie.WebSite\obj\Debug\MyApiMovie.WebSite.dll
+F:\cursos\2013\Maestria Ing Software\11 Implementación de componentes de Software\PROYECTO\MyApiMovie\SourceCode\MyApiMovie.WebSite\obj\Debug\MyApiMovie.WebSite.pdb
